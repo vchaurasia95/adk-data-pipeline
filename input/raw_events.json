@@ -1,0 +1,37 @@
+[
+    {
+      "user_id": "user_001",
+      "event_type": "page_view",
+      "timestamp": "2025-05-07T14:25:00Z"
+    },
+    {
+      "user_id": "user_002",
+      "event_type": "button_click",
+      "timestamp": "2025-05-07T14:26:10Z"
+    },
+    {
+      "user_id": "user_003",
+      "event_type": "form_submit",
+      "timestamp": "2025-05-07T14:27:30Z"
+    },
+    {
+      "user_id": "",
+      "event_type": "page_view",
+      "timestamp": "2025-05-07T14:28:45Z"
+    },
+    {
+      "user_id": "user_004",
+      "event_type": "",
+      "timestamp": "2025-05-07T14:29:00Z"
+    },
+    {
+      "user_id": "user_005",
+      "event_type": "video_play",
+      "timestamp": "2025-05-05T14:45:00Z"
+    },
+    {
+      "user_id": "user_012",
+      "event_type": "video_play",
+      "timestamp": "2025-05-16T10:51:00Z"
+    }
+  ]
