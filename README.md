@@ -7,8 +7,6 @@ This project demonstrates a fully modular, AI-agent-driven pipeline that process
 * ✅ Validates raw user events for required fields
 * ✅ Deduplicates identical events (e.g., retries, replays)
 * ✅ Groups events into user sessions based on time gaps
-* ✅ Exports final results as a downloadable CSV artifact
-
 ---
 
 ### 📁 Project Structure
@@ -82,9 +80,8 @@ adk web
 
 ### 📆 Features Used
 
-* **ADK Agents & Tools** (`LlmAgent`, `FunctionTool`)
+* **ADK Agents & Tools** (`LlmAgent)
 * **Sub-Agent Orchestration**
-* **Artifact Service (`InMemoryArtifactService`)**
 * **Session Memory & State Passing**
 
 ---

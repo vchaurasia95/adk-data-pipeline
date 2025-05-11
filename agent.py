@@ -5,7 +5,6 @@ import google.genai.types as types
 from google.adk.agents import LlmAgent
 from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
-from google.adk.artifacts import InMemoryArtifactService
 from .utils import load_instruction_from_file
 from .tools.validation_tool import validate_events
 from .tools.session_tool import assign_sessions
