@@ -80,7 +80,7 @@ adk web
 
 ### 📆 Features Used
 
-* **ADK Agents & Tools** (`LlmAgent)
+* **ADK Agents & Tools** (`LlmAgent`)
 * **Sub-Agent Orchestration**
 * **Session Memory & State Passing**
 
